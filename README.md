@@ -19,10 +19,10 @@ We also provide `vcpkg.json` for those who use vcpkg as package manager, but you
 
 ![intro-kitchen](./assets/intro-kitchen.png)
 
-![kitchen-AO-5.0s-[Wed May 15 10_42_39 2024]](./assets/kitchen-AO-5.0s-[Wed May 15 10_42_39 2024].png)
+![kitchen-AO-5.0s](./assets/kitchen-AO-5.0s.png)
 
-![dragon-color-PathTracing-60.0s-[Tue May 14 17_50_41 2024]](./assets/dragon-color-PathTracing-60.0s-[Tue May 14 17_50_41 2024].png)
+![dragon-color-PathTracing-60.0s](./assets/dragon-color-PathTracing-60.0s.png)
 
-![dragon-glass-PathTracing-60.0s-[Tue May 14 17_51_43 2024]](./assets/dragon-glass-PathTracing-60.0s-[Tue May 14 17_51_43 2024].png)
+![dragon-glass-PathTracing-60.0s](./assets/dragon-glass-PathTracing-60.0s.png)
 
-![dragon-metal-black-PathTracing-60.0s-[Tue May 14 17_52_46 2024]](./assets/dragon-metal-black-PathTracing-60.0s-[Tue May 14 17_52_46 2024].png)
+![dragon-metal-black-PathTracing-60.0s](./assets/dragon-metal-black-PathTracing-60.0s.png)
